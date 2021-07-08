@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @herisetyawan233 (instagram)
 
 <!---
 Herisetyawan123/Herisetyawan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
