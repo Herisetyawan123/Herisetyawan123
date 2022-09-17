@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @Herisetyawan123
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on @perdanaph
 - 📫 How to reach me @herisetyawan233 (instagram)
 
 
@@ -20,6 +20,9 @@
 <br>
 <a href="https://www.instagram.com/herisetyawan233/">
     <img src="https://img.shields.io/badge/herisetyawan233-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://wa.me/6283853797950">
+    <img src="https://img.shields.io/badge/herisetyawan233-bc2a8d?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 
