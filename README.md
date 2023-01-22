@@ -5,7 +5,7 @@
 
 <img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=herisetyawan123&show_icons=true&theme=radical" width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Herisetyawan123&show_icons=true&theme=radical" width="400">
 
 - 👋 Hi, I’m @Herisetyawan123
 - 👀 I’m interested in Programming
@@ -16,7 +16,7 @@
 
 [![@herisetyawan's Holopin board](https://holopin.io/api/user/board?user=herisetyawan)](https://holopin.io/@herisetyawan)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herisetyawan123&layout=compact&theme=dracula" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herisetyawan123&layout=compact&theme=dracula" /> -->
 
 ####ContactMe :
 <br>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/herisetyawan233-bc2a8d?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisetyawan123&layout=compact&theme=dracula)]
 
 
 
