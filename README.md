@@ -5,7 +5,7 @@
 
 <img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Herisetyawan123&show_icons=true&theme=radical" width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=herisetyawan123&show_icons=true&theme=radical" width="400">
 
 - 👋 Hi, I’m @Herisetyawan123
 - 👀 I’m interested in Programming
