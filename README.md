@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @herisetyawan233 (instagram)
 
-<img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
+<img align="right" height="200"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
 
 
 
